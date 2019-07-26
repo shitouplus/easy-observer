@@ -1,6 +1,6 @@
 #easy-observer
 > 监听dom工具函数
-<br/>
+
 + 节点曝光
 ```js
 exposure(nodes, callback, once)
